@@ -30,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scss/main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+            <state relative-caret-position="331">
+              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -73,8 +73,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -122,14 +122,17 @@
       <workItem from="1568545463815" duration="21000" />
       <workItem from="1568546083378" duration="6635000" />
       <workItem from="1568674213471" duration="665000" />
+      <workItem from="1568675210587" duration="54000" />
+      <workItem from="1568675284805" duration="1530000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15181000" />
+    <option name="totallyTimeSpent" value="16765000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15110631" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -182,8 +185,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        <state relative-caret-position="331">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
         </state>
       </provider>
     </entry>
